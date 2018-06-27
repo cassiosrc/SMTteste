@@ -1,0 +1,6 @@
+.neb-rating-html-implementation   neb-rating   .neb-rating.numbers label .rating-label ,
+ .neb-rating-html-implementation   neb-rating   .neb-rating.numbersCircle label .rating-label ,
+ .neb-rating-html-implementation   neb-rating   .neb-rating.numbersSquare .neb-rating-value   label .rating-label  {
+ height :  29px ;  /* adjust height but add !important to activate it or this setting will be ignored */
+ width :  29px ;  /* adjust width but add !important to activate it or this setting will be ignored */
+ font-weight :  400 ;  border-radius :  100% ;  font-size :  16px ; }
