@@ -1,0 +1,4 @@
+.neb-rating-html-implementation neb-rating .neb-rating.numbers label.rating-label.on, .neb-rating-html-implementation neb-rating .neb-rating.numbersCircle label.rating-label.on, .neb-rating-html-implementation neb-rating .neb-rating.numbersSquare .neb-rating-value label.rating-label.on {
+    background: #17007a !important;
+    color: #FFF !important;
+}
